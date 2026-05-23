@@ -1,0 +1,46 @@
+[
+    {
+        "iconUrl": "https://z2.idlixku.com/favicon.png",
+        "fileHash": "sha256-f6615f7173fdaa43c66f471b834cec2ec14a7ba8e04eb66ac5ec35e9661c1a89",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/tpadev/idlix-cloudstream",
+        "fileSize": 47531,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "qolbudr (original)",
+            "ported to Cloudstream"
+        ],
+        "tvTypes": [
+            "Movie",
+            "TvSeries",
+            "AsianDrama"
+        ],
+        "version": 17,
+        "internalName": "IdlixProvider",
+        "description": "Idlix - port of qolbudr/idlix-addons-stremio",
+        "url": "https://raw.githubusercontent.com/tpadev/idlix-cloudstream/builds/IdlixProvider.cs3",
+        "name": "IdlixProvider"
+    },
+    {
+        "iconUrl": "https://moviebox-api-theta.vercel.app/favicon.ico",
+        "fileHash": "sha256-dec609493775cd1e81f0223bb539bc9cf6ed66bde5449c9ad912a71228eb9a0d",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/tpadev/idlix-cloudstream",
+        "fileSize": 37475,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "MovieBox"
+        ],
+        "tvTypes": [
+            "Movie",
+            "TvSeries"
+        ],
+        "version": 4,
+        "internalName": "MovieBoxProvider",
+        "description": "MovieBox provider",
+        "url": "https://raw.githubusercontent.com/tpadev/idlix-cloudstream/builds/MovieBoxProvider.cs3",
+        "name": "MovieBoxProvider"
+    }
+]

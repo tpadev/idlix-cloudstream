@@ -36,8 +36,8 @@ class MovieBoxProvider : MainAPI() {
     override val hasDownloadSupport = true
     override val supportedTypes = setOf(TvType.Movie, TvType.TvSeries)
 
-    private val fastApiUrl = "https://moviebox-fastapi.vercel.app"
-
+    // private val fastApiUrl = "https://moviebox-fastapi.vercel.app"
+    private val fastApiUrl = "https://fmoviesunblocked.net"
     override val mainPage = mainPageOf(
         "$mainUrl/api/homepage" to "Home",
         "$mainUrl/api/trending" to "Trending",
